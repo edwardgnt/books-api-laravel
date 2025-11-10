@@ -47,21 +47,21 @@ Upcoming features (roadmap):
 Key backend components:
 
 app/
-Http/
-Controllers/BooksController.php
-Requests/
-StoreBookRequest.php
-UpdateBookRequest.php
-Resources/BookResource.php
-Services/
-BooksService.php
+  Http/
+    Controllers/BooksController.php
+    Requests/
+      StoreBookRequest.php
+      UpdateBookRequest.php
+    Resources/BookResource.php
+  Services/
+    BooksService.php
 
 database/
-migrations/
-seeders/
-BookSeeder.php
-factories/
-BookFactory.php
+  migrations/
+  seeders/
+    BookSeeder.php
+  factories/
+    BookFactory.php
 
 
 Installation & Setup
