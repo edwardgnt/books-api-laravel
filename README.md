@@ -47,31 +47,28 @@ Upcoming features (roadmap):
 Key backend components:
 
 app/
-├── Http/
-│ ├── Controllers/
-│ │ └── BooksController.php
-│ ├── Requests/
-│ │ ├── StoreBookRequest.php
-│ │ └── UpdateBookRequest.php
-│ └── Resources/
-│ └── BookResource.php
-├── Services/
-│ └── BooksService.php
-└── Models/
-└── Book.php
+Http/
+Controllers/BooksController.php
+Requests/
+StoreBookRequest.php
+UpdateBookRequest.php
+Resources/BookResource.php
+Services/
+BooksService.php
 
 database/
-├── migrations/
-├── seeders/
-│ └── BookSeeder.php
-└── factories/
-└── BookFactory.php
+migrations/
+seeders/
+BookSeeder.php
+factories/
+BookFactory.php
 
 
 Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/books-api-laravel.git
+git clone https://github.com/edwardgnt/books-api-laravel.git
+
 cd books-api-laravel
 
 2. Install dependencies
