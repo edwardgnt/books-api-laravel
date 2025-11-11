@@ -63,33 +63,3 @@ database/
  │    └── BookSeeder.php
  └── factories/
       └── BookFactory.php
-```
-
-Installation & Setup
-
-1. Clone the repository
-git clone https://github.com/edwardgnt/books-api-laravel.git
-
-cd books-api-laravel
-
-2. Install dependencies
-    composer install
-
-3. Environment setup
-    Copy the example environment file:
-        cp .env.example .env
-
-    Generate the app key:
-        php artisan key:generate
-
-    Configure your MySQL credentials in .env:
-    DB_DATABASE=books_api
-    DB_USERNAME=root
-    DB_PASSWORD=
-
-4. Run migrations & seeders
-    php artisan migrate:fresh --seed
-
-5. Run the API locally
-    php artisan serve
-
