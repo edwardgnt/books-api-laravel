@@ -1,10 +1,10 @@
 # Books API (Laravel 12 + MySQL)
 
-[![Build Status](https://github.com/YOUR_USERNAME/books-api-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/books-api-laravel/actions/workflows/ci.yml)
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-9.x-4479A1?logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Build Status](https://github.com/YOUR_USERNAME/books-api-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/books-api-laravel/actions/workflows/ci.yml)
 
 A clean, production-style REST API built with **Laravel 12** and **MySQL**, following best practices such as Controllers, Services, Form Requests, Eloquent Resources (DTO-style), Factories, and Seeders.
 
