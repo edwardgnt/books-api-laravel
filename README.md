@@ -1,6 +1,6 @@
 # Books API (Laravel 12 + MySQL)
 
-[![Build Status](https://github.com/YOUR_USERNAME/books-api-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/edwardgnt/books-api-laravel/actions/workflows/ci.yml)
+[![CI](https://github.com/edwardgnt/books-api-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/edwardgnt/books-api-laravel/actions/workflows/ci.yml)
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-9.x-4479A1?logo=mysql&logoColor=white)
